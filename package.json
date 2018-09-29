@@ -1,0 +1,19 @@
+{
+  "name": "ses-email-nodejs",
+  "version": "1.0.0",
+  "description": "An example of sending email with ses and aws-sdk on Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdhelaluddin-ctg-bd/ses-email-nodejs.git"
+  },
+  "author": "Md Helal Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdhelaluddin-ctg-bd/ses-email-nodejs/issues"
+  },
+  "homepage": "https://github.com/mdhelaluddin-ctg-bd/ses-email-nodejs#readme"
+}
